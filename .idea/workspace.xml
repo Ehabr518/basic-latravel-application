@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="87c2572a-dcb1-43f7-89c0-47d837ff3827" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../blog/resources/sass/layout/_navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blog/resources/views/layout/master.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blog/resources/views/layout/navbar.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blog/resources/views/layout/sidebar.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blog/resources/views/pages/about.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blog/resources/views/pages/category.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blog/resources/views/pages/contact.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blog/resources/views/post.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blog/resources/views/test.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial-lesson-23.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/.styleci.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/app/Console/Kernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/app/Exceptions/Handler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/app/Http/Controllers/Auth/ConfirmPasswordController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/app/Http/Controllers/Auth/ForgotPasswordController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/app/Http/Controllers/Auth/LoginController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/app/Http/Controllers/Auth/RegisterController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/app/Http/Controllers/Auth/ResetPasswordController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/app/Http/Controllers/Auth/VerificationController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/app/Http/Controllers/Controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/app/Http/Controllers/PizzaController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/app/Http/Kernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/app/Http/Middleware/Authenticate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/app/Http/Middleware/CheckForMaintenanceMode.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/app/Http/Middleware/EncryptCookies.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/app/Http/Middleware/RedirectIfAuthenticated.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/app/Http/Middleware/TrimStrings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/app/Http/Middleware/TrustProxies.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/app/Http/Middleware/VerifyCsrfToken.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/app/Pizza.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/app/Providers/AppServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/app/Providers/AuthServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/app/Providers/BroadcastServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/app/Providers/EventServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/app/Providers/RouteServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/app/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/artisan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/bootstrap/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/bootstrap/cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/config/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/config/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/config/broadcasting.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/config/cache.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/config/database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/config/filesystems.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/config/hashing.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/config/logging.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/config/mail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/config/queue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/config/services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/config/session.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/config/view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/database/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/database/factories/UserFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/database/migrations/2014_10_12_100000_create_password_resets_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/database/migrations/2020_01_09_130612_create_pizzas_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/database/seeds/DatabaseSeeder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/phpunit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/public/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/public/css/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/public/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/public/img/pizza-house.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/public/img/pizza.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/public/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/public/mix-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/resources/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/resources/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/resources/lang/en/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/resources/lang/en/pagination.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/resources/lang/en/passwords.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/resources/lang/en/validation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/resources/sass/app.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/resources/sass/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/resources/views/layouts/layout.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/resources/views/pizzas/create.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/resources/views/pizzas/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/resources/views/pizzas/show.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/resources/views/welcome.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/routes/api.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/routes/channels.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/routes/console.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/routes/web.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/server.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/storage/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/storage/app/public/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/storage/framework/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/storage/framework/cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/storage/framework/cache/data/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/storage/framework/sessions/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/storage/framework/testing/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/storage/framework/views/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/storage/logs/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/tests/CreatesApplication.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/tests/Feature/ExampleTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/tests/TestCase.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/tests/Unit/ExampleTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../laravel-beginners-tutorial/pizzahouse/webpack.mix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/_custom.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/about.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/contact.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/inc/messages.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/inc/navbar.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/inc/showcase.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/inc/sidebar.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/messages.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/app/Console/Kernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/app/Exceptions/Handler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/app/Http/Controllers/Auth/ConfirmPasswordController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/app/Http/Controllers/Auth/ForgotPasswordController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/app/Http/Controllers/Auth/LoginController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/app/Http/Controllers/Auth/RegisterController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/app/Http/Controllers/Auth/ResetPasswordController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/app/Http/Controllers/Auth/VerificationController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/app/Http/Controllers/Controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/app/Http/Kernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/app/Http/Middleware/Authenticate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/app/Http/Middleware/EncryptCookies.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/app/Http/Middleware/RedirectIfAuthenticated.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/app/Http/Middleware/TrimStrings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/app/Http/Middleware/TrustProxies.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/app/Http/Middleware/VerifyCsrfToken.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/app/Models/Pizza.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/app/Providers/AppServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/app/Providers/AuthServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/app/Providers/BroadcastServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/app/Providers/EventServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/app/Providers/RouteServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/bootstrap/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/bootstrap/cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/config/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/config/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/config/broadcasting.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/config/cache.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/config/database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/config/filesystems.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/config/hashing.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/config/logging.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/config/mail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/config/queue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/config/services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/config/session.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/config/view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/database/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/database/factories/UserFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/database/migrations/2014_10_12_100000_create_password_resets_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/database/migrations/2020_09_12_101615_create_pizzas_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/public/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/public/css/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/public/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/public/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/public/mix-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/resources/css/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/resources/sass/app.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/resources/sass/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/resources/views/layout/layout.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/resources/views/pizzas/create.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/resources/views/pizzas/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/resources/views/pizzas/show.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/routes/api.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/routes/channels.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/routes/console.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/routes/web.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/storage/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/storage/app/public/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/storage/framework/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/storage/framework/cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/storage/framework/cache/data/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/storage/framework/sessions/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/storage/framework/testing/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/storage/framework/views/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/storage/logs/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/tests/CreatesApplication.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/tests/Feature/ExampleTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/tests/TestCase.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzahouse/tests/Unit/ExampleTest.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/scrivo/highlight.php" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/laravel/ui" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1hVTahFocWReE9pKfk5hcOqIp2h" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87c2572a-dcb1-43f7-89c0-47d837ff3827" name="Default Changelist" comment="" />
+      <created>1600095324965</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600095324965</updated>
+      <workItem from="1600095326052" duration="20869000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1122" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600125279785">
+      <screen x="-1152" y="0" width="1152" height="824" />
+    </state>
+    <state x="-1122" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/-1152.0.1152.824@-1152.0.1152.824" timestamp="1600125279785" />
+    <state width="1237" height="262" key="GridCell.Tab.0.bottom" timestamp="1600101339887">
+      <screen x="-1280" y="-256" width="1280" height="984" />
+    </state>
+    <state width="1109" height="210" key="GridCell.Tab.0.bottom/0.0.1366.728/-1152.0.1152.824@-1152.0.1152.824" timestamp="1600095372957" />
+    <state width="1237" height="262" key="GridCell.Tab.0.bottom/0.0.1366.728/-1280.-256.1280.984@-1280.-256.1280.984" timestamp="1600101339887" />
+    <state width="1237" height="262" key="GridCell.Tab.0.center" timestamp="1600101339887">
+      <screen x="-1280" y="-256" width="1280" height="984" />
+    </state>
+    <state width="1109" height="210" key="GridCell.Tab.0.center/0.0.1366.728/-1152.0.1152.824@-1152.0.1152.824" timestamp="1600095372957" />
+    <state width="1237" height="262" key="GridCell.Tab.0.center/0.0.1366.728/-1280.-256.1280.984@-1280.-256.1280.984" timestamp="1600101339887" />
+    <state width="1237" height="262" key="GridCell.Tab.0.left" timestamp="1600101339886">
+      <screen x="-1280" y="-256" width="1280" height="984" />
+    </state>
+    <state width="1109" height="210" key="GridCell.Tab.0.left/0.0.1366.728/-1152.0.1152.824@-1152.0.1152.824" timestamp="1600095372957" />
+    <state width="1237" height="262" key="GridCell.Tab.0.left/0.0.1366.728/-1280.-256.1280.984@-1280.-256.1280.984" timestamp="1600101339886" />
+    <state width="1237" height="262" key="GridCell.Tab.0.right" timestamp="1600101339887">
+      <screen x="-1280" y="-256" width="1280" height="984" />
+    </state>
+    <state width="1109" height="210" key="GridCell.Tab.0.right/0.0.1366.728/-1152.0.1152.824@-1152.0.1152.824" timestamp="1600095372957" />
+    <state width="1237" height="262" key="GridCell.Tab.0.right/0.0.1366.728/-1280.-256.1280.984@-1280.-256.1280.984" timestamp="1600101339887" />
+    <state x="-984" y="98" key="run.anything.popup" timestamp="1600181799218">
+      <screen x="-1280" y="-256" width="1280" height="984" />
+    </state>
+    <state x="-984" y="98" key="run.anything.popup/0.0.1366.728/-1280.-256.1280.984@-1280.-256.1280.984" timestamp="1600181799218" />
+  </component>
+</project>
